@@ -1,0 +1,31 @@
+#carousel{
+    padding:80px 0px;
+}
+.caro-left h3{
+    padding-right:60px;
+}
+.caro-left p{
+    padding-right:60px;
+    color:#000 !important;
+}
+.hamza{
+    color:#000 !important;
+}
+.text h5{
+    margin:0 !important;
+}
+.image img{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+ 
+}
+.wadi{
+    font-size:32px;
+    font-weight: 500;
+    margin-bottom: 60px;
+  
+}
+.text{
+    margin-left: 30px;
+}

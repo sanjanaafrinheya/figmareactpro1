@@ -1,0 +1,28 @@
+#portf{
+    background: #F4F6FC;
+    padding: 50px 0px;
+}
+
+.dark{
+    display: flex;
+    justify-content: center;
+   
+}
+.donkey{
+    text-align: center;
+  
+
+}
+.brown{
+    color:#000 !important;
+}
+.icon-port a{
+   padding-left: 20px;
+   color:#000;
+}
+.port-img img{
+    width:100%;
+}
+.usaka{
+    color:#000 !important;
+}

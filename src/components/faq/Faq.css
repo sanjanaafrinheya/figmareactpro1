@@ -1,0 +1,27 @@
+#faq{
+    padding:50px 0px;
+}
+.guest{
+    border:none;
+}
+.accordion-item {
+    border:0 !important;
+    border-bottom: 1px solid#000 !important;
+    border-radius: 0 !important;
+    
+}
+.guest span{
+    color:blue;
+    padding-right:30px;
+}
+.faq-left h4{
+    color:blue;
+    font-size: 18px;
+    font-weight: 500;
+}
+.bs-accordion-active-bg{
+   visibility:0 ;
+}
+.bs-accordion-active-bg{
+    visibility:0 ;
+}

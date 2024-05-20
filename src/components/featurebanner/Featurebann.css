@@ -1,0 +1,24 @@
+#fea-bann{
+    padding: 100px 0px;
+    background: #1C1E53;
+    
+}
+#fea-bann h2{
+    Color:#fff;
+    font-size:54px;
+    font-weight: 500;
+}
+#fea-bann p{
+    font-size:16px;
+    opacity:70%;
+}
+ #fea-bann button{
+    padding:16px 48px;
+    background:#FCD980 ;
+    border-radius: 41px;
+}
+.fea-bann-img{
+    img{
+        width:100%;
+    }
+}

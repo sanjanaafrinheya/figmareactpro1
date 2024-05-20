@@ -1,0 +1,16 @@
+ .naw{
+    background-color: rgb(28, 30, 83);
+  
+}
+.star a{
+    color:#fff !important;
+
+}
+ Button.bttn{
+    border-radius: 30px;
+    color:#fff;
+  margin-left: 40px;
+}
+.bttn a:hover{
+color:black !important;
+}

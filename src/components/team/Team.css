@@ -1,0 +1,41 @@
+#team{
+    padding:100px 0px;
+}
+.kajol img{
+    padding-right: 30px;
+    padding-top: 10px;
+}
+.headd{
+    background:#F4F6FC;
+    padding:30px;
+}
+.robot{
+    padding:0px 300px !important;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.headd i{
+    color:blue;
+   
+
+}
+.headd h4{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color:#000;
+}
+
+.headd p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color:#000 !important;
+    
+}

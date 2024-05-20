@@ -1,0 +1,23 @@
+.fprivacy{
+    display: flex;
+    justify-content: center;
+}
+.pani{
+    color:#000 !important;
+}
+.coke{
+    display: flex;
+    justify-content: center;
+}
+.fanta{
+    list-style:disc;
+}
+.sprite{
+    text-align: center;
+}
+.frutoo{
+    text-align: center;
+}
+.bruvana{
+    text-align: center;
+}

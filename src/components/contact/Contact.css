@@ -1,0 +1,39 @@
+#contact{
+    padding:80px 0px;
+}
+.jerry{
+    color: #282938 !important;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.veni{
+    display: flex;
+    justify-content: center;
+}
+.tomas{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+}
+.start{
+    width:100%;
+}
+.start-now{
+    width:80%;
+    padding:15px 0px;
+    border: 1px solid #0000001F;
+    border-radius: 8px;
+}
+.end-now{
+    width:80%;
+    padding:15px 0px;
+    border: 1px solid #0000001F;
+    border-radius: 8px;
+}
+.mymy{
+    width:90%;
+    padding:60px 0px;
+    border: 1px solid #0000001F;
+    border-radius: 8px;
+}

@@ -1,0 +1,25 @@
+.great button{
+    border:none;
+    background-color: transparent;
+}
+
+.btn2 a{
+    padding:16px 41px;
+    background: #FCD980;
+    color:#000;
+    border-radius:41px ;
+    border-color: transparent;
+}
+.kawwa{
+    color:#000 !important;
+}
+#amina{
+    padding:70px 0px;
+}
+.amiee{
+    display: flex;
+    justify-content: center;
+}
+.great{
+    text-align: center;
+}

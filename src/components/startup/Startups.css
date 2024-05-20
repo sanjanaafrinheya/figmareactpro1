@@ -1,0 +1,84 @@
+#startup-main{
+    padding:100px 0px;
+   
+}
+ .startup-left{
+    background: url(../../assets/hand.jpeg) no-repeat center / cover;
+    padding:100px 0px;
+   
+}
+.startup-left h3{
+    color:#fff;
+    font-size: 45px;
+    text-align: center;
+    padding:0px 120px;
+}
+ .startup-left p{
+    font-size: 16px;
+    color:#fff !important;
+    font-weight: 500;
+    text-align: center;
+}
+.startup-right{
+    background:#1C1E53;
+    padding:100px 0px;
+    text-align: center;
+   
+}
+.startup-right h3,p{
+    color:#fff !important;
+}
+.input-me1{
+    background: transparent;
+    width:80%;
+    padding:10px;
+    border:1px solid #F4F6FC;
+    border-radius: 8px;
+    opacity: 0.4;
+    margin-bottom:20px;
+}
+.input-me2{
+    background: transparent;
+    width:80%;
+    padding:10px;
+    border:1px solid #F4F6FC;
+    border-radius: 8px;
+    opacity: 0.4;
+    margin-bottom: 20px;
+}
+.input-me3{
+    background: transparent;
+    width:80%;
+    padding:10px;
+    border:1px solid #F4F6FC;
+    border-radius: 8px;
+    opacity: 0.4;
+    margin-bottom: 20px;
+}
+.startup-right  .btn{
+    padding:15px 51px;
+    background:#FCD980 !important;
+    border-radius: 41px;
+    opacity: 0px;
+    transition: 0.5s;
+}
+.startup-right  .btn a{
+    color:#000;
+}
+.startup-right .btn:hover{
+   border-color: #FCD980 !important;
+   background: transparent !important;
+   transition: 0.5s;
+
+}
+.startup-right .btn a:hover{
+
+    color:#FCD980 !important;
+    transition: 0.5s;
+ }
+
+.touch a{
+    margin-top: 20px;
+    color:#fff;
+    font-size: 18px;
+}

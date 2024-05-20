@@ -1,0 +1,166 @@
+#pricing{
+    padding:60px 0px;
+}
+.law{
+    color:#000 !important;
+    display: inline-block;
+    padding-left: 30px;
+    font-size: 38px;
+    font-weight: 600;
+    padding-right: 5px;
+}
+.lawn{
+    color:#000 !important;
+    display: inline-block;
+    padding-left: 30px;
+    font-size: 38px;
+    font-weight: 600;
+    padding-right: 5px;
+}
+.law2{
+    color:#000 !important;
+    display: inline-block;
+    padding-left: 30px;
+    font-size: 38px;
+    font-weight: 600;
+    padding-right: 5px;
+}
+
+.kado{
+    color:blue !important;
+    display: inline-block;
+    
+}
+.kadon{
+    color:blue !important;
+    display: inline-block;
+    
+}
+.shema{
+    color:#000 !important;
+    padding-left: 30px;
+    font-size: 24px;
+}
+.sheman{
+    color:#000 !important;
+    padding-left: 30px;
+    font-size: 24px;
+}
+.shema2{
+    color:#000 !important;
+    padding-left: 30px;
+    font-size: 24px;
+}
+.hasib{
+    color:#000 !important;
+    padding-left: 30px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 50px;
+}
+.hasibn{
+    color:#000 !important;
+    padding-left: 30px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 23px;
+}
+.hasib2{
+    color:#000 !important;
+    padding-left: 30px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 15px;
+}
+ul li{
+    color:#000 !important;
+    padding:10px 0px;
+}
+.butam{
+     padding: 15px 51px;
+     background: #000 !important;
+     border:none !important;
+     border-radius: 41px !important;
+     margin:0 auto !important;
+     margin-left: 100px !important;
+     transition:0.5s;
+}
+.butam2{
+    padding: 15px 51px;
+    background: #000 !important;
+    border:none !important;
+    border-radius: 41px !important;
+    margin:0 auto !important;
+    margin-left: 100px !important;
+    transition:0.5s;
+}
+.pop:hover{
+    background: #1C1E53 !important;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    color:#fff !important;
+}
+.pop:hover li{
+    color:aqua !important;
+}
+.pop:hover .law{
+    color:#fff !important;
+}
+.pop:hover .shema{
+    color:#fff !important;
+}
+.pop:hover .hasib{
+    color:#fff !important;
+}
+.pop:hover .lawn{
+    color:#fff !important;
+}
+.pop:hover .law2{
+    color:#fff !important;
+}
+.pop:hover .sheman{
+    color:#fff !important;
+}
+.pop:hover .shema2{
+    color:#fff !important;
+}
+.pop:hover .hasibn{
+    color:#fff !important;
+}
+.pop:hover .hasib2{
+    color:#fff !important;
+}
+
+
+.pop:hover ul li{
+    color:#fff !important;
+}
+.pop:hover .kado{
+    color: #FCD980 !important;
+
+}
+.pop:hover .kadon{
+    color: #FCD980 !important;
+
+}
+.pop:hover .kadon2{
+    color: #FCD980 !important;
+
+}
+.pop:hover .butam{
+    background:#FCD980 !important;
+    color:#000;
+    transition:0.5s;
+}
+.pop:hover .butam2{
+    background:#FCD980 !important;
+    color:#000;
+    transition:0.5s;
+}
+ .laddu{
+    color:#97DAAD;
+    rotate:90 degree;
+    
+}
+.pop .laddu:hover .laddu{
+ transform: rotateY('360deg');
+}

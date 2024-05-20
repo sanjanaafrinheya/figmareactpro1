@@ -1,0 +1,23 @@
+#aboutimg{
+    padding:100px 0px;
+}
+
+.kgyjk img{
+    width:100%;
+}
+.about-text h4{
+    font-weight: 500;
+    font-size:18px;
+
+}
+.about-text h2{
+    font-weight: 600;
+    font-size:38px;
+    padding-right:100px;
+
+}
+.about-text p{
+    font-weight: 400;
+    font-size:16px;
+    color:#000 !important;
+}

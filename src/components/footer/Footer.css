@@ -1,0 +1,40 @@
+#footer{
+   padding-top: 50px;
+    background-color:rgb(28, 30, 83);
+}
+.footer p{
+    color:#fff;
+    padding:20px 0px;
+}
+.footer-contact{
+    background-color:#FCD980 ;
+
+}
+.footer-contact h5{
+    font-size:16px;
+    padding-top: 10px;
+}
+.footer-contact p a{
+    color:#000;
+    font-size: 14px;
+   padding-bottom:10px;
+}
+.footer-right{
+    color:#fff;
+}
+
+.footer-icon a{
+    color:#fff;
+    padding:0px 10px;
+    font-size:18px;
+}
+.footer-leg{
+    background-color: #fff;
+    
+}
+.footer-menu a{
+    color:#000;
+}
+.miniso p{
+padding-top: 7px;
+}

@@ -1,0 +1,31 @@
+#readblog p{
+        color:black !important;
+}
+.bunny-img img{
+    width:100%;
+}
+.hand img{
+    width:100%;
+}
+.raam{
+ display:flex;
+ justify-content:center;
+}
+.shamm{
+   text-align: left;
+}
+.jodu{
+    list-style: disc;
+}
+.trail{
+    display: flex;
+    justify-content: center;
+}
+.trofy{
+    display: flex;
+    justify-content: center;
+}
+
+.carpet{
+    text-align: center;
+}

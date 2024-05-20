@@ -1,0 +1,28 @@
+#conception{
+    padding:100px 0px;
+}
+
+.down{
+    display:flex;
+    justify-content: center;
+}
+.concep-line{
+    border-bottom:2px dashed blue;
+    width:160px;
+}
+.concep{
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+}
+.concep-icon{
+    color:blue;
+    font-size: 25px;
+    margin-bottom: 8px;
+}
+.follow{
+    text-align: center;
+}
+.concep-text p{
+    color:#000 !important;
+}

@@ -1,0 +1,35 @@
+#banner{
+    padding:60px 0px;
+    background-color: rgb(28, 30, 83);
+   
+}
+#banner h2{
+    color:#fff;
+    font-size: 45px;
+    font-weight:600px;
+}
+#banner p{
+    font-size: 14px;
+    font-weight: 400;
+    color:#fff;
+    opacity:0.5;
+}
+.view-work{
+    padding:14px 36px;
+    color:#fff !important;
+    background-color: rgb(252, 217, 128);
+    border-radius:25px;
+}
+.view-work a{
+    color:black;
+}
+.btn-2{
+    padding:14px 36px;
+    background-color: transparent;
+  }
+  .btn-2 a{
+    color:#fff;
+  }
+  .jkgjk img{
+    width:100%;
+  }
