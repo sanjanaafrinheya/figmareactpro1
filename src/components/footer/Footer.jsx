@@ -6,6 +6,7 @@ import { PiFacebookLogoBold,PiTwitterLogoLight, PiInstagramLogoDuotone  } from "
 import { SlSocialLinkedin } from "react-icons/sl";
 import { Col, Container, Row } from 'react-bootstrap';
 import './Footer.css'
+import { Link } from 'react-router-dom';
  function Footer() {
   return (
 <section id="footer">
@@ -56,12 +57,14 @@ import './Footer.css'
       <Col lg={6}>
        <div className="footer-menu">
           <Nav className="me-auto">
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/about">About us</Nav.Link>
-            <Nav.Link href="/feature">Features</Nav.Link>
-            <Nav.Link href="/pricing">Pricing</Nav.Link>
-            <Nav.Link href="/faq">FAQ</Nav.Link>
-            <Nav.Link href="/privacy">Privacy policy</Nav.Link>
+              
+          <Link  to="/">Home</Link>
+            <Link to="/about">About Us</Link>
+            <Link to="/feature">Feature</Link>
+            <Link to="/pricing">Pricing</Link>
+            <Link to="/faq">FAQ</Link>
+            <Link to="/blog">Blog</Link>
+            <Link to="/privacy">Privacy policy</Link> 
           </Nav>
 
        </div>

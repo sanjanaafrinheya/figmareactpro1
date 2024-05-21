@@ -2,9 +2,9 @@
     background-color: rgb(28, 30, 83);
   
 }
-.star a{
+.star  a{
     color:#fff !important;
-
+    padding:0px 20px;
 }
  Button.bttn{
     border-radius: 30px;
